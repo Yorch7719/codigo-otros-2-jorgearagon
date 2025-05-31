@@ -18,7 +18,7 @@ Este proyecto consiste en una página web que permite registrar invitados a una 
 - `formulario.js` — Script con validaciones y lógica para agregar invitados.
 - `styles.css` — Estilos personalizados para la interfaz.
 
-## Autor original del código: git@github.com:eduardojesus12/codigo-otros-2.git
+## Autor original del código:
 
 Repositorio base clonado desde [eduardojesus12/codigo-otros-2](https://github.com/eduardojesus12/codigo-otros-2).
 
